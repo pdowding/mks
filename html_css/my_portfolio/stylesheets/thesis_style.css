@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+@import url(http://fonts.googleapis.com/css?family=Diplomata);
+@import url(http://fonts.googleapis.com/css?family=Gochi+Hand);
+
+p {
+	
+	font-family: Open Sans;
+}
+
+h1 {
+	
+	font-family: Diplomata;
+	text-transform: uppercase;
+}
+
+h2 {
+	
+    font-family: Gochi Hand;	
+}
+
+.Harsh {
+	
+	font-family: Condiment;
+	font-style: italic;
+}
+
+a:hover {
+	color: red;
+}

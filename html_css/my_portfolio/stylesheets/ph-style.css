@@ -1,0 +1,140 @@
+body {
+    background-color: #babab7;
+}
+
+h2 {
+	background-color: #dededc;
+	color: #898a82;
+	margin-bottom: 20px;
+	font-family: verdana;
+    padding: 10px;
+}
+.first {
+	background-color: #367bb0;
+	margin-bottom: 0px;
+	margin-top: 0px;
+    color: white;
+    font-family: verdana;
+
+}
+.second {
+	background-color: #3687b9;
+	margin-top: 0px;
+	margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+
+}
+
+.third {
+    background-color: #3293c3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.fourth {
+	background-color: #469fcb;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.fifth {
+    background-color: #5fadd2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.sixth {
+    background-color: #75bada;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.seventh {
+    background-color: #75bada;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.eigth {
+    background-color: #23ab7f;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.ninth {
+     background-color: #e9acc2;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+}
+
+.tenth {
+     background-color: #e799b5;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+}
+
+.eleventh {
+     background-color: #e687a8;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+
+}
+
+.twelveth {
+
+     background-color: #e2749a;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+}
+
+.thirteenth {
+
+     background-color: #e0658b;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+}
+
+.fourteenth {
+
+     background-color: #de5780;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+}
+
+.fifteenth {
+     background-color: #da3d75;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     color: white;
+    font-family: verdana;
+
+}
+
+span {
+	font-size: 30px
+}
